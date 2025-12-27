@@ -100,7 +100,10 @@ const App = {
     },
 
     logEnvironment() {
-        if (process.env.NODE_ENV !== 'production') {
+        const isDevelopment = window.location.hostname === 'localhost' || 
+                            window.location.hostname === '127.0.0.1';
+        
+        if (isDevelopment) {
             console.log('Environment: Development');
             console.log('CORS configured for cross-origin requests');
         }
