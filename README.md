@@ -132,11 +132,11 @@ Replace `assets/logo.png` with your logo:
 
 ## 📝 License
 
-Created by CodeWithBotina - 2024
+Created by CodeWithBotina - 2025
 
 ## 🔗 Links
 
-- Website: https://codewithbotina.com
+- Website: https://helloworld.codewithbotina.com
 - GitHub: https://github.com/CodeWithBotinaOficial
 - YouTube: @CodeWithBotina
 - TikTok: @CodeWithBotina
